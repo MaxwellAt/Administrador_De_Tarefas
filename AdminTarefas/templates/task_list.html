@@ -1,0 +1,10 @@
+{% block content %}
+  <h1>Lista de Tarefas</h1>
+  <a href="./tasks/">Adicionar tarefas</a>
+  <ul>
+    {% for task in tasks %}
+      <li>{{ task.title }}</li>
+    {% endfor %}
+  </ul>
+{% endblock %}
+
