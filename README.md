@@ -41,4 +41,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Django
 - HTML
 
+##
+
 <img alt="ko4la" src="https://media.tenor.com/FTZx57BugI4AAAAC/koala-sleeping.gif" width="90">
